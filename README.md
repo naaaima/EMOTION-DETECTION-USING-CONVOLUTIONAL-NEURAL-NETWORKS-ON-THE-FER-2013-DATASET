@@ -1,4 +1,4 @@
-# Emotion Detection Using Convolutional Neural Networks
+# Emotion Detection Using facial expression with Convolutional Neural Networks
 Ce projet implémente un système de **détection des émotions** basé sur un réseau de neurones convolutif (CNN) utilisant le dataset FER-2013.  
 Il permet de reconnaître des émotions faciales à partir d’images ou de vidéos.
 
